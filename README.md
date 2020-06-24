@@ -1,12 +1,16 @@
-# react_calculator
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-<br />
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT " src="https://img.shields.io/badge/License-MIT -yellow.svg" />
+  </a>
+  <a href="https://twitter.com/ClintonEnyinna" target="_blank">
+    <img alt="Twitter: ClintonEnyinna " src="https://img.shields.io/twitter/follow/ClintonEnyinna .svg?style=social" />
+  </a>
+</p>
 
 <p align="center">
  
-  <h2 align="center">Calculator</h2>
+  <h2 align="center">React Calculator</h2>
   <p align="center">
     <br />
     <a href="https://github.com/ClintonEnyinna/react_calculator/"><strong>Explore the docs »</strong></a>
@@ -56,6 +60,33 @@ This project was built with react 16.13.1, a javascript library for building use
 
 ![screenshot]()
 
+## Setup
+
+Use the [git](https://git-scm.com/downloads) to clone the project to your local machine.
+
+```sh
+$ git clone https://github.com/ClintonEnyinna/react_calculator.git
+```
+
+Navigate to the extracted folder
+
+```sh
+cd react_calculator
+```
+
+Install the dependencies and modules
+
+```sh
+$ npm install
+```
+
+Start the live server
+
+```sh
+$ npm start
+```
+
+
 ## Live Version
 
 - You can view the app hosted online [here](https://calc-with-react.herokuapp.com/).
@@ -74,11 +105,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
-## Contact
+## Author
 
-Clinton Enyinna - [Github profile](https://github.com/ClintonEnyinna)
+👤 **Clinton Enyinna**
 
-Project Link: [Project repo](https://github.com/ClintonEnyinna/react_calculator)
+* Twitter: [@enyinnaclinton ](https://twitter.com/ClintonEnyinna)
+* Github: [@ClintonEnyinna](https://github.com/https:\/\/github.com\/ClintonEnyinna) 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
