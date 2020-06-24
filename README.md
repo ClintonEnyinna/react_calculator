@@ -60,9 +60,9 @@ This project was built with react 16.13.1, a javascript library for building use
 
 ![screenshot]()
 
-## Setup
+## Setup locally
 
-Use the [git](https://git-scm.com/downloads) to clone the project to your local machine.
+Use [git](https://git-scm.com/downloads) to clone the project to your local machine.
 
 ```sh
 $ git clone https://github.com/ClintonEnyinna/react_calculator.git
