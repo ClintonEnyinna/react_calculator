@@ -12,7 +12,7 @@
 .display {
   justify-content: flex-end;
   align-items: center;
-  font-size: 50px;
+  font-size: 47px;
   height: 100px;
   padding: 10px;
   background-color: #858693;
@@ -30,17 +30,8 @@
 }
 
 .btn {
-  background-color: #e0e0e0;
   width: 25%;
   height: 100%;
   border: 1px solid #d1d1d1;
   font-size: 26px;
-}
-
-.group-5 :first-child {
-  width: 50%;
-}
-
-.btn-panel div :last-of-type {
-  background-color: #f5913f;
 }
