@@ -1,3 +1,37 @@
-p {
-  background-color: grey;
+.calculator,
+.display,
+.btn-panel {
+  display: flex;
+}
+
+.calculator {
+  flex-direction: column;
+  width: 700px;
+}
+
+.display {
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 47px;
+  height: 100px;
+  padding: 10px;
+  background-color: #858693;
+  color: white;
+  font-weight: bold;
+}
+
+.btn-panel {
+  flex-wrap: wrap;
+}
+
+.btn-panel div {
+  height: 100px;
+  width: 100%;
+}
+
+.btn {
+  width: 25%;
+  height: 100%;
+  border: 1px solid #d1d1d1;
+  font-size: 26px;
 }
